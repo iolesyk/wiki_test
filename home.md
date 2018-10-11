@@ -3,7 +3,7 @@
 
 # Welcome
 
-
+![1111111111111](/uploads/test/1111111111111.png "1111111111111")
 
 A wiki (/ˈwɪki/ (About this sound listen) WIK-ee) is a website on which users collaboratively modify content and structure directly from the web browser. In a typical wiki, text is written using a simplified markup language and often edited with the help of a rich-text editor.[1]
 
