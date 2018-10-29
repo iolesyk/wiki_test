@@ -10,7 +10,7 @@ docker container stats --help
 docker container stats**
 
 **docker container run -it**   -start new container interactively
-**docker container exec -it **  -run additional command in existing container
+**docker container exec -it**   -run additional command in existing container
 
 **docker container run -it** --name proxy nginx bash
 **docker container start** --help
